@@ -1,0 +1,1 @@
+# Clipsy-Clipboard-Manager-for-mac
